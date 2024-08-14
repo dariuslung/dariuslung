@@ -1,12 +1,12 @@
-### Biography
+## Biography
 <p align="justify">
   Hiya, I go by Darius, or you can refer to me by my Chinese name 龍偉亮.<br>
   I am a Computer Science (資訊工程) undergraduate from 國立陽明交通大學 in Taiwan.<br>
   Feel free to look around~
 </p>
 
-### Languages
-<div style="display: flex">
+## Languages
+<div>
   <a href="#languages"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
   <a href="#languages"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <a href="#languages"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
@@ -17,8 +17,8 @@
   <a href="#languages"><img src="https://img.shields.io/badge/LabVIEW-fec60a?style=for-the-badge&logo=labview&logoColor=white"/></a>
 </div>
 
-### Tools
-<div style="display: flex">
+## Tools
+<div>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
@@ -35,7 +35,7 @@
 </div>
 
 ### Socials
-<div style="display: flex">
+<div>
   <a href="https://www.linkedin.com/in/dariuslung"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/dariuslung"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/dariuslung"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
