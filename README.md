@@ -1,6 +1,6 @@
 ## Biography
 <p align="justify">
-  Hi there, I go by Darius, or you can refer to me by my Chinese name 龍偉亮.<br>
+  Hi there! My name is Darius, or you can refer to me by my Chinese name 龍偉亮.<br>
   I hold a B.Sc. in Computer Science from National Yang Ming Chiao Tung University.<br>
   Feel free to explore and look around~
 </p>
