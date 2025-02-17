@@ -1,8 +1,8 @@
 ## Biography
 <p align="justify">
-  Hiya, I go by Darius, or you can refer to me by my Chinese name 龍偉亮.<br>
-  I am a Computer Science (資訊工程) undergraduate from 國立陽明交通大學 in Taiwan.<br>
-  Feel free to look around~
+  Hi there, I go by Darius, or you can refer to me by my Chinese name 龍偉亮.<br>
+  I hold a B.Sc. in Computer Science from National Yang Ming Chiao Tung University.<br>
+  Feel free to explore and look around~
 </p>
 
 ## Languages
