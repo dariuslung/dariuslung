@@ -1,7 +1,7 @@
 ## Introduction
 <p align="justify">
   Hi there! I'm Darius Lung, and this is my GitHub profile.<br>
-  I hold a B.Sc. in Computer Science from National Yang Ming Chiao Tung University.<br>
+  I hold a B.S. in Computer Science from National Yang Ming Chiao Tung University.<br>
   Feel free to explore and look around~
 </p>
 
