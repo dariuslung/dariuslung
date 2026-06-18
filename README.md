@@ -38,6 +38,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer" alt="Wave Footer" width="100%" />
 
 <!-- Typing text -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=C0C0C0&center=true&vCenter=true&width=600&lines=never+gonna+give+you+up;never+gonna+let+you+down;never+gonna+run+around+and+desert+you;never+gonna+make+you+cry;never+gonna+say+goodbye;never+gonna+tell+a+lie+and+hurt+you" alt="Typing SVG" />
-</p>
+</p> -->
