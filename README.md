@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dariuslung&bg_color=transparent&color=C0C0C0&line=C0C0C0&point=C0C0C0&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
+  <img src="https://github-act-graph.rodriaum.com/graph?username=dariuslung&bg_color=transparent&color=C0C0C0&line=C0C0C0&point=C0C0C0&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
 </p>
 
 <!-- Wave footer -->
