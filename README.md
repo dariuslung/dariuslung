@@ -17,8 +17,8 @@
 ## Overview
 
 <p align="center">
-  <!-- Contribution graph -->
-  <img src="https://github-act-graph.rodriaum.com/graph?username=dariuslung&bg_color=transparent&color=C0C0C0&line=C0C0C0&point=C0C0C0&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
+  <!-- Contribution graph from rodriaum/github-readme-activity-graph -->
+  <img src="https://github-act-graph.rodriaum.com/graph?username=dariuslung&bg_color=00000000&color=C0C0C0&line=C0C0C0&point=C0C0C0&area_color=C0C0C0&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
 </p>
 
 <!-- Wave footer -->
